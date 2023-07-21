@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tasnim a ✨computer science student✨
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning spring boot
+- 👀 I’m interested in web development and AI
+- 🌱 I’m currently learning spring boot and Python for machine learning
 - 💞️ I’m looking to collaborate on 
-- 📫 Reach out to me on email: tasnimchiba@gmailcom
+- 📫 Reach out to me on email: tasnimchiba@outlook.com
